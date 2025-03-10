@@ -15,6 +15,7 @@
     <h6>Ketua Kelas</h6><br>
     <h6>NIM : 23110002</h6><br>
     <h6>NAMA : Brillian Ricky</h6><br>
+    <h6>Tahun 2025</h6><br>
     <a href="index.php">Kembali</a>
 </body>
 
