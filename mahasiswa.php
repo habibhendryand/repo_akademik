@@ -16,6 +16,7 @@
     <h6>NIM : 23110002</h6><br>
     <h6>NAMA : Brillian Ricky</h6><br>
     <h6>Tahun 2025</h6><br>
+    <h6>Kelas 23 MI A</h6><br>
     <a href="index.php">Kembali</a>
 </body>
 
